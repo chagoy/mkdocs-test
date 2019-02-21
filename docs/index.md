@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Welcome to express docs
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+For full documentation visit [express docs.org](https://mkdocs.org).
 
 ## Commands
 
